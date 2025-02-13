@@ -4,7 +4,7 @@ This calculator is built using React and TypeScript, which provides a better use
 
                                                               
                                                               
-                                                              I've created a professional calculator with the following features:
+                                                I've created a professional calculator with the following features:
 
 1. Basic arithmetic operations (+, -, *, /)
 2. Scientific functions (sin, cos, tan, square root, power)
