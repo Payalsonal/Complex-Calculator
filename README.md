@@ -29,4 +29,4 @@ To run this code,
 
 Open Intellij, and click on terminal -> On the terminal, type: npm install 
 After installation completes, start the developmet server by typing: npm dev server
-This command will open this "Calculator" app in the browser.
+This command will open this "Calculator" web based application in the browser.
